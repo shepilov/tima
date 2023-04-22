@@ -1,2 +1,3 @@
-print("Hello");
+for _ in range(100):
+    print('hello')
 
